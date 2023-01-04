@@ -1,0 +1,23 @@
+[07-Apr-2017 09:43:59 UTC] PHP Notice:  Undefined variable: level in /home/smartmed/public_html/admin/balance.php on line 4
+[07-Apr-2017 09:43:59 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/smartmed/public_html/admin/balance.php on line 158
+[07-Apr-2017 09:43:59 UTC] PHP Warning:  mysql_query(): Access denied for user 'smartmed'@'localhost' (using password: NO) in /home/smartmed/public_html/admin/balance.php on line 158
+[07-Apr-2017 09:43:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/smartmed/public_html/admin/balance.php on line 158
+[07-Apr-2017 09:43:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 159
+[07-Apr-2017 09:43:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 161
+[08-Apr-2017 06:10:44 UTC] PHP Notice:  Undefined variable: level in /home/smartmed/public_html/admin/balance.php on line 4
+[08-Apr-2017 06:10:44 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:10:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'smartmed'@'localhost' (using password: NO) in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:10:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:10:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 159
+[08-Apr-2017 06:10:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 161
+[08-Apr-2017 06:11:23 UTC] PHP Notice:  Undefined variable: level in /home/smartmed/public_html/admin/balance.php on line 4
+[08-Apr-2017 06:11:23 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/smartmed/public_html/admin/balance.php on line 110
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'smartmed'@'localhost' (using password: NO) in /home/smartmed/public_html/admin/balance.php on line 110
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/smartmed/public_html/admin/balance.php on line 110
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 111
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 112
+[08-Apr-2017 06:11:23 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'smartmed'@'localhost' (using password: NO) in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/smartmed/public_html/admin/balance.php on line 158
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 159
+[08-Apr-2017 06:11:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartmed/public_html/admin/balance.php on line 161

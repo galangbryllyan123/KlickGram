@@ -1,0 +1,16 @@
+<?php
+    $api_key = "310423711f54dSE23f20PUKI5Aa2127xdbf78z"; // API Key Chopper Panel Anda 
+    $method = "order"; // Method jangan di ubah
+    $type = "1"; // ID Layanan
+    $quantity = "100"; // Jumlah order
+    $data = "https://www.instagram.com/dennyir20/"; // Username atau link
+
+    $url = "http://chopperpanel.com/api/?api_key=".$api_key."&method=".$method."&type=".$type."&data=".$data."&quantity=".$quantity;
+    $get = file_get_contents($url);
+    $order = json_decode($get);
+
+if ($order->result == "error") { ?>
+    Order error, karena <?php echo $order->reason; ?>
+<? } else if ($order->result == "success") { ?>
+    Order success, Order id : <?php echo $order->no_order; ?>
+<? } ?>

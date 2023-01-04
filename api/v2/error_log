@@ -1,0 +1,4 @@
+[29-Jun-2017 16:31:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/klikgram/public_html/api/v2/koneksi.php on line 13
+[29-Jun-2017 16:31:31 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'smartmed_panel'@'localhost' (using password: YES) in /home/klikgram/public_html/api/v2/koneksi.php on line 13
+[29-Jun-2017 18:43:49 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/klikgram/public_html/api/v2/koneksi.php on line 13
+[29-Jun-2017 18:43:49 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'smartmed_panel'@'localhost' (using password: YES) in /home/klikgram/public_html/api/v2/koneksi.php on line 13
